@@ -1,2 +1,2 @@
 # Open-Repository
-New lone of code
+New line of code
