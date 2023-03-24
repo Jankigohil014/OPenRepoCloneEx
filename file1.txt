@@ -1,1 +1,7 @@
 Hello world.
+Hello
+This
+is
+added
+from
+bugfix
